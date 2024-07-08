@@ -3,7 +3,7 @@
   display: inline-flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: beige;
+  background-color: #ff4191;
   padding: 25px 15px;
 }
 
@@ -24,7 +24,7 @@
   align-items: center;
   gap: 10px;
   padding: 10px 15px;
-  background-color: antiquewhite;
+  background-color: #ffb4c2;
   border-radius: 50px;
   font-size: 14px;
   color: grey;
@@ -49,12 +49,12 @@
   padding: 10px;
   padding-right: 40px;
   border-radius: 50px;
-  color: grey;
+  color: black;
   cursor: pointer;
 }
 
 .sidebar .recent-entry:hover {
-  background-color: #f5f5f5;
+  background-color: #ffb4c2;
 }
 
 .sidebar .bottom {
